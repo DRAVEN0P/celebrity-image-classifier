@@ -1,6 +1,6 @@
 This is a image Classifier which is used to detect any photo of the following celebrities
 1.  Ms Dhoni
-2.  Virat kholi
+2.  Virat kohli
 3.  Mesii
 4.  Ronaldo
 5.  Mbapee

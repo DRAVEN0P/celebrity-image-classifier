@@ -107,7 +107,7 @@ def check_image(num, img):
         return (MODEL.predict(final)[0])
 
 
-celeb_dict = {'mbappe': 0, 'dhoni': 1, 'ronaldo': 2, 'virat': 3, 'messi': 4}
+celeb_dict = {'Mbappe': 0, 'Ms dhoni': 1, 'Ronaldo': 2, 'Virat Kohli': 3, 'Messi': 4}
 
 
 img1 = cv2.imread(path)
